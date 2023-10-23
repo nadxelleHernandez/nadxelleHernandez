@@ -2,7 +2,7 @@
 
 I'm proactive developer with experience in programming in Python, Javascript, Java, C/C++ and C#. I love learning new technologies and tools and I'm fully commited to follow industry standars and best practices. I'm also a mom of three boys eager to return to my professional career.
 
-## Objective
+## Goal
 
 I'm looking for a remote fulltime job as Full-Stack or Front-End Engineer. My wish is to inspire other women to continue pursuing their careers, regardless of their time off raising a family. We moms know how to get things done. We know hoe to lead by example. We have the maturity and the emotional intelligence to guide and support any team. We know how to communicate and advocate for the people and things we consider important. We are strong and resilient, nothing can stop us from achieve what we pursue!
 
